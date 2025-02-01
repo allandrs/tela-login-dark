@@ -129,7 +129,8 @@ footer {
 footer p {
     margin: 0px;
     padding: 10px 0px 0px 4px;
-    font-size: 13px;
+    font-size: 11.5px;
+    color: gray
 }
 
 @media only screen and (max-width: 950px) {
@@ -165,4 +166,11 @@ footer p {
     .card-login {
         width: 90%;
     }
+
+    footer {
+
+        height: 6vh;
+
+    }
 }
+
